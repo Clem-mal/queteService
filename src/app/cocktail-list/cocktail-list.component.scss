@@ -1,0 +1,22 @@
+.cocktail-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  &__cocktail-card {
+  }
+}
+
+img {
+   width: 100px;
+  height: 100px;
+   object-fit: cover}
+
+h3 {
+  color : red;
+  margin-left: 10px;
+}
+
+h4 {
+  color: green;
+  margin-left: 10px;
+}
